@@ -1,0 +1,62 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.title {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgrey;
+  font-size: 3em;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body {
+  width: 100%;
+  height: 90%;
+  display: flex;
+}
+
+.button1 {
+  height: 10%;
+  width: 50%;
+  font-size: 2em;
+  margin-top: 10%;
+}
+
+.centerColumn {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sideColumn {
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 80%;
+  height: auto;
+}
+
+.dog {
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+}
+
+
