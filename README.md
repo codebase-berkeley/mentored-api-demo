@@ -1,6 +1,15 @@
-<<<<<<< HEAD
-# mentored-api-demo
-=======
+# Mentored API Demo
+## Goal
+Learn to use APIs in addition to building React fundamentals. Use the DOG API to generate random photos of dogs with the press of a button.
+
+## TODO
+1) Create state for the dog picture URL
+2) Fetch the dog image URL using axios 
+3) Set the URL as a value for src
+4) Set an onClick function for the generator button
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +80,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> master
