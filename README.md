@@ -1,12 +1,25 @@
 # Mentored API Demo
 ## Goal
-Learn to use APIs in addition to building React fundamentals. Use the DOG API to generate random photos of dogs with the press of a button.
+Learn to use APIs in addition to building React fundamentals. Use the DOG API to generate random photos of dogs with the press of a button. We will use `axios`, a HTTP Client library for Node.js, to make our requests. We will also learn to read documentation and important debugging skills
+
+### Conceptual Checklist
+- [ ] Understand the use of the React State Hook
+- [ ] Understand the structure of an API request
+- [ ] Understand how to make a request using the Axios library
+- [ ] Learn to use the console in Chrome to debug and learn information about requests
+- [ ] Get a better grasp of React syntax and React JSX
+- [ ] Learn to read API documentation
 
 ## TODO
-1) Create state for the dog picture URL
-2) Fetch the dog image URL using axios 
-3) Set the URL as a value for src
-4) Set an onClick function for the generator button
+Generate a random dog picture everytime the generate button is hit on the page. We should be getting these dog pictures from the Dog CEO API website. Additionally, parse the URL such that we can get the breed.
+
+- [ ] Fill out the generateDogPicture method and make a get request using axios
+- [ ] Log the data to the console and read over the results with the devs
+- [ ] Add the onClick functionality to the generator button
+- [ ] Create state variables to house the breed and img text
+- [ ] Add the states to the HTML components
+
+## <mark>IMPORTANT:</mark> Remember to `npm install` after cloning the repo! 
 
 <br/>
 
