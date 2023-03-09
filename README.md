@@ -14,6 +14,7 @@ Learn to use APIs in addition to building React fundamentals. Use the DOG API to
 Generate a random dog picture everytime the generate button is hit on the page. We should be getting these dog pictures from the Dog CEO API website. Additionally, parse the URL such that we can get the breed.
 
 - [ ] Fill out the generateDogPicture method and make a get request using axios
+- [ ] Make the generate dog function async
 - [ ] Log the data to the console and read over the results with the devs
 - [ ] Add the onClick functionality to the generator button
 - [ ] Create state variables to house the breed and img text
